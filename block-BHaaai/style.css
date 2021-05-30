@@ -1,0 +1,32 @@
+body{
+	background-color: #191970;
+	color: #fff;
+}
+header{
+	text-align: center;
+}
+h1{
+	font-size: 20px;
+}
+.color{
+	color: #fff;
+	text-decoration: none;
+}
+p{
+	font-size: 18px;
+}
+a{
+	color: red;
+	margin: 3px;
+}
+address{
+	font-size: 12px;
+}
+h2{
+	color: green;
+}
+footer{
+	text-align: center;
+	padding: 20px;
+	background-color: #483D8B;
+}
