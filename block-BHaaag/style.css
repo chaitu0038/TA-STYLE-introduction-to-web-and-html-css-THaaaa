@@ -1,0 +1,20 @@
+h1{
+	font-size: 20px;
+}
+p{
+	font-size: 18px;
+}
+body{
+	background-color: #191970;
+	color: #fff;
+}
+a{
+	color: red;
+	margin: 3px;
+}
+address{
+	font-size: 12px;
+}
+h2{
+	color: green;
+}
